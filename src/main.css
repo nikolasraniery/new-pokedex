@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'pokemon';
+  src: url('../src/assets/fonts/Pokemon\ Solid.ttf');
+}
+
+@font-face {
+  font-family: 'pressStart';
+  src: url('../src/assets/fonts/PressStart2P-Regular.ttf');
+
+}
